@@ -10,6 +10,10 @@ Ace-Bot is your personal mock interview partner built with Gradio and LangChain.
 * 🎨 Clean white & blue UI with intuitive chat layout
 * 🧠 Built with LangChain, OpenAI, and Gradio
 
+## 🌟 Demo
+
+[![Watch Demo](https://img.youtube.com/vi/TRNg72vQniU/0.jpg)](https://youtu.be/TRNg72vQniU?si=RN62ancO24lF19Hv)
+
 ## 📦 How to Run
 
 1. Clone the repo:
@@ -47,4 +51,3 @@ MIT License
 Built with ❤️ by Amna Ghafoor
 Let’s connect: [LinkedIn](https://linkedin.com/in/amnaghafoor) | [Hugging Face Space](https://huggingface.co/spaces/AmnaGhafoor/Ace-Bot)
 
-[![Watch Demo](https://img.youtube.com/vi/TRNg72vQniU/0.jpg)](https://youtu.be/TRNg72vQniU?si=RN62ancO24lF19Hv)
