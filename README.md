@@ -47,3 +47,4 @@ MIT License
 Built with ❤️ by Amna Ghafoor
 Let’s connect: [LinkedIn](https://linkedin.com/in/amnaghafoor) | [Hugging Face Space](https://huggingface.co/spaces/AmnaGhafoor/Ace-Bot)
 
+[![Watch Demo](https://img.youtube.com/vi/TRNg72vQniU/0.jpg)](https://youtu.be/TRNg72vQniU?si=RN62ancO24lF19Hv)
