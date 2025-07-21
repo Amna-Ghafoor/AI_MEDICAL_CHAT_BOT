@@ -1,0 +1,9 @@
+#requirements.txt
+
+openai
+crewai
+fastapi
+gradio
+uvicorn
+python-dotenv
+langchain-openai
