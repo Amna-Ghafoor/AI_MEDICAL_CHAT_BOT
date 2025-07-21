@@ -15,7 +15,7 @@ Ace-Bot is your personal mock interview partner built with Gradio and LangChain.
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/ace-bot.git
+git clone https://github.com/Amna-Ghafoor/ace-bot.git
 cd ace-bot
 ```
 
@@ -45,5 +45,5 @@ MIT License
 ## 🙋‍♀️ Author
 
 Built with ❤️ by Amna Ghafoor
-Let’s connect: [LinkedIn](#linkedin.com/in/amnaghafoor) | [Hugging Face Space](#https://huggingface.co/spaces/AmnaGhafoor/Ace-Bot)
+Let’s connect: [LinkedIn](https://linkedin.com/in/amnaghafoor) | [Hugging Face Space](https://huggingface.co/spaces/AmnaGhafoor/Ace-Bot)
 
